@@ -10,6 +10,7 @@
       "lastname": "Levée",
       "favoriteColor": "green"
     },
+    {
       "firstname": "Thomas",
       "lastname": "Curmi",
       "favoriteColor": "purple"
@@ -35,9 +36,9 @@
       "favoriteColor": "flou"
     },
     {
-        "firstname": "Arnaud",
-        "lastname": "Boyer",
-        "favoriteColor": "blue"
+      "firstname": "Arnaud",
+      "lastname": "Boyer",
+      "favoriteColor": "blue"
     }
   ]
 }
