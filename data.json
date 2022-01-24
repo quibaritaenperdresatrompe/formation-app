@@ -9,7 +9,7 @@
       "firstname": "Léo",
       "lastname": "Séry",
       "favoriteColor": "orange"
-    }
+    },{
       "firstname": "Benjamin",
       "lastname": "Gelineau",
       "favoriteColor": "Blue"
@@ -279,6 +279,11 @@
     { "firstname": "David",
      "lastname": "Roussat",
      "favoriteColor": "red" 
+    },
+    {
+      "firstname": "Lucas",
+      "lastname": "Fallous",
+      "favoriteColor": "#6BD080"
     }
   ]
 }
