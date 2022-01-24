@@ -5,6 +5,13 @@
       "lastname": "Barit",
       "favoriteColor": "green"
     },
+
+    {
+      "firstname": "Benjamin",
+      "lastname": "Gelineau",
+      "favoriteColor": "Blue"
+    },
+
     {
       "firstname": "Dorian",
       "lastname": "Levée",
@@ -35,6 +42,7 @@
       "lastname": "michel",
       "favoriteColor": "flou"
     },
+
     {
       "firstname": "Arnaud",
       "lastname": "Boyer",
@@ -44,6 +52,16 @@
       "firstname": "Clément",
       "lastname": "AUGIER de MOUSSAC",
       "favoriteColor": "black"
+    },
+
+    {
+      "firstname": "Louis",
+      "lastname": "Merlaud",
+      "favoriteColor": "light gray"
+    },
+    {
+      "firstname": "Matthias",
+      "lastname": "Flament"
     }
   ]
 }
