@@ -89,11 +89,17 @@
             "favoriteColor": "blue"
         },
         {
+            "firstname": "Sandra",
+            "lastname": "Heraud",
+            "favoriteColor": "Yellow"
+        },
+        {
             "firstname": "Léo",
             "lastname": "Bourin",
             "favoriteColor": "red"
 
         }
+        
 
     ]
 }
