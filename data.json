@@ -73,7 +73,6 @@
             "favoriteColor": "red :)"
         },
         {
-<<<<<<< HEAD
             "firstname": "Joseph",
             "lastname": "Cloux",
             "favoriteColor": "blue"
@@ -81,10 +80,6 @@
         {
             "firstname": "Clément",
             "lastname": "Manant",
-=======
-            "firstname": "Yrlan",
-            "lastname": "MONTAGNIER",
->>>>>>> 4a9d3da (Branche pour Yrlan)
             "favoriteColor": "blue"
         },
         {
@@ -92,5 +87,6 @@
             "lastname": "MONTAGNIER",
             "favoriteColor": "blue"
         }
+        MO
     ]
 }
