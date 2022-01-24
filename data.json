@@ -81,14 +81,6 @@
             "firstname": "Clément",
             "lastname": "Manant",
             "favoriteColor": "blue"
-<<<<<<< HEAD
-        },
-        {
-            "firstname": "Yrlan",
-            "lastname": "MONTAGNIER",
-            "favoriteColor": "blue"
-=======
->>>>>>> 00dbe084272c80e198ab4250b09a8e4ef05e716e
         }
     ]
 }
