@@ -67,11 +67,16 @@
             "lastname": "Marchand",
             "favoriteColor": "#d4f2d2"
         },
-        {
-            "firstname": "Antonin",
-            "lastname": "Jouannet",
-            "favoriteColor": "red :)"
-        }
+      {
+        "firstname": "Antonin",
+        "lastname": "Jouannet",
+        "favoriteColor": "red :)"
+      }
+      {
+        "firstname": "Antonin",
+        "lastname": "Jouannet",
+        "favoriteColor": "red"
+      }
 
     ]
 }
