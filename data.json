@@ -76,7 +76,11 @@
             "firstname": "Clément",
             "lastname": "Manant",
             "favoriteColor": "blue"
+        },
+        {
+            "firstname": "Paul Antoine",
+            "lastname": "Abeille",
+            "favoriteColor": "Green"
         }
-
     ]
 }
