@@ -245,6 +245,11 @@
             "firstname": "Kévin",
             "lastname": "Granger",
             "favoriteColor": "red"
+        },
+        {
+            "firstname":"Enzo",
+            "lastname":"Peyrataud",
+            "favoriteColor":"green"
         }
     ]
 }
