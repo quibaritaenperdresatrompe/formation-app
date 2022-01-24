@@ -6,6 +6,15 @@
       "favoriteColor": "green"
     },
     {
+      "firstname": "Dorian",
+      "lastname": "Levée",
+      "favoriteColor": "green"
+    },
+      "firstname": "Thomas",
+      "lastname": "Curmi",
+      "favoriteColor": "purple"
+    },
+    {
       "firstname": "Fabian",
       "lastname": "Ingremeau",
       "favoriteColor": "green"
@@ -15,10 +24,20 @@
       "lastname": "Diologent",
       "favoriteColor": "red"
     },
-      {
+    {
       "firstname": "Adrien",
       "lastname": "Clamadieu-Tharaud",
       "favoriteColor": "blue"
+    },
+    {
+      "firstname": "romain",
+      "lastname": "michel",
+      "favoriteColor": "flou"
+    },
+    {
+        "firstname": "Arnaud",
+        "lastname": "Boyer",
+        "favoriteColor": "blue"
     }
   ]
 }
