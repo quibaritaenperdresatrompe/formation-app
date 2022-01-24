@@ -81,6 +81,11 @@
             "firstname": "Clément",
             "lastname": "Manant",
             "favoriteColor": "blue"
+        },
+        {
+            "firstname": "Théo",
+            "lastname": "Quesnoy",
+            "favoriteColor": "white"
         }
 
     ]
