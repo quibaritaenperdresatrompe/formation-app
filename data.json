@@ -4,6 +4,11 @@
       "firstname": "Valentin",
       "lastname": "Barit",
       "favoriteColor": "green"
+    },
+    {
+      "firstname": "Hugo",
+      "lastname": "Joyet",
+      "favoriteColor": "blue"
     }
   ]
 }
