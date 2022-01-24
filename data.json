@@ -142,6 +142,60 @@
       "favoriteColor": "black"
     },
 
+        {
+            "firstname": "Arnaud",
+            "lastname": "Boyer",
+            "favoriteColor": "blue"
+        },
+        {
+            "firstname": "Clément",
+            "lastname": "AUGIER de MOUSSAC",
+            "favoriteColor": "black"
+        },
+
+        {
+            "firstname": "Louis",
+            "lastname": "Merlaud",
+            "favoriteColor": "light gray"
+        },
+        {
+            "firstname": "Matthias",
+            "lastname": "Flament"
+        },
+        {
+            "firstname": "Manoa",
+            "lastname": "Marchand",
+            "favoriteColor": "#d4f2d2"
+        },
+        {
+            "firstname": "Antonin",
+            "lastname": "Jouannet",
+            "favoriteColor": "red :)"
+        },
+        {
+            "firstname": "Joseph",
+            "lastname": "Cloux",
+            "favoriteColor": "blue"
+        },
+        {
+            "firstname": "Clément",
+            "lastname": "Manant",
+            "favoriteColor": "blue"
+        },
+        {
+            "firstname": "Gaetan",
+            "lastname": "Roux",
+            "favoriteColor": "blue"
+        },
+        {
+            "firstname": "Guillaume",
+            "lastname": "Mareschal",
+            "favoriteColor": "purple"
+        }
+        
+
+    ]
+}
     {
       "firstname": "Louis",
       "lastname": "Merlaud",
