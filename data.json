@@ -93,6 +93,11 @@
 			"firstname": "Costa",
 			"lastname": "Reype",
 			"favoriteColor": "DarkBlue"
-		}
+		},
+        {
+            "firstname":"Mattéo",
+            "lastname":"Ferreira",
+            "favoriteColor":"#fab478"
+        }
 	]
 }
