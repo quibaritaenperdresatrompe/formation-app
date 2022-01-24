@@ -9,6 +9,11 @@
       "firstname": "Fabian",
       "lastname": "Ingremeau",
       "favoriteColor": "green"
+    },
+    {
+      "firstname": "Valentin",
+      "lastname": "Diologent",
+      "favoriteColor": "red"
     }
   ]
 }
