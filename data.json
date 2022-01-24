@@ -89,6 +89,7 @@
             "favoriteColor": "blue"
         },
         {
+<<<<<<< HEAD
             "firstname": "Sandra",
             "lastname": "Heraud",
             "favoriteColor": "Yellow"
@@ -98,6 +99,11 @@
             "lastname": "Bourin",
             "favoriteColor": "red"
 
+=======
+            "firstname": "Gaetan",
+            "lastname": "Roux",
+            "favoriteColor": "blue"
+>>>>>>> 821d828 (feat: gaetanroux)
         }
         
 
