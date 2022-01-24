@@ -7,6 +7,12 @@
     },
 
     {
+      "firstname": "Benjamin",
+      "lastname": "Gelineau",
+      "favoriteColor": "Blue"
+    },
+
+    {
       "firstname": "Dorian",
       "lastname": "Levée",
       "favoriteColor": "green"
