@@ -5,7 +5,95 @@
       "lastname": "Barit",
       "favoriteColor": "green"
     },
-
+    {
+      "firstname": "Benjamin",
+      "lastname": "Gelineau",
+      "favoriteColor": "Blue"
+    },
+    {
+      "firstname": "Dorian",
+      "lastname": "Levée",
+      "favoriteColor": "green"
+    },
+    {
+      "firstname": "Thomas",
+      "lastname": "Curmi",
+      "favoriteColor": "purple"
+    },
+    {
+      "firstname": "Fabian",
+      "lastname": "Ingremeau",
+      "favoriteColor": "green"
+    },
+    {
+      "firstname": "Valentin",
+      "lastname": "Diologent",
+      "favoriteColor": "red"
+    },
+    {
+      "firstname": "Adrien",
+      "lastname": "Clamadieu-Tharaud",
+      "favoriteColor": "blue"
+    },
+    {
+      "firstname": "romain",
+      "lastname": "michel",
+      "favoriteColor": "flou"
+    },
+    {
+      "firstname": "Arnaud",
+      "lastname": "Boyer",
+      "favoriteColor": "blue"
+    },
+    {
+      "firstname": "Clément",
+      "lastname": "AUGIER de MOUSSAC",
+      "favoriteColor": "black"
+    },
+    {
+      "firstname": "Louis",
+      "lastname": "Merlaud",
+      "favoriteColor": "light gray"
+    },
+    {
+      "firstname": "Matthias",
+      "lastname": "Flament"
+    },
+    {
+      "firstname": "Manoa",
+      "lastname": "Marchand",
+      "favoriteColor": "#d4f2d2"
+    },
+    {
+      "firstname": "Antonin",
+      "lastname": "Jouannet",
+      "favoriteColor": "red :)"
+    },
+    {
+      "firstname": "Maxime",
+      "lastname": "Mourgues",
+      "favoriteColor": "#58B049"
+    },
+    {
+      "firstname": "Joseph",
+      "lastname": "Cloux",
+      "favoriteColor": "blue"
+    },
+    {
+      "firstname": "Clément",
+      "lastname": "Manant",
+      "favoriteColor": "blue"
+    },
+    {
+      "firstname": "Léo",
+      "lastname": "Bourin",
+      "favoriteColor": "red"
+    },
+    {
+      "firstname": "Costa",
+      "lastname": "Reype",
+      "favoriteColor": "DarkBlue"
+    },
     {
       "firstname": "Benjamin",
       "lastname": "Gelineau",
@@ -74,14 +162,14 @@
       "favoriteColor": "red :)"
     },
     {
-      "firstname": "Joseph",
-      "lastname": "Cloux",
-      "favoriteColor": "blue"
+      "firstname": "Killian",
+      "lastname": "Adonaï",
+      "favoriteColor": "purple "
     },
     {
-      "firstname": "Clément",
-      "lastname": "Manant",
-      "favoriteColor": "blue"
+      "firstname": "Mattéo",
+      "lastname": "Ferreira",
+      "favoriteColor": "#fab478"
     },
     {
       "firstname": "Mathis",
