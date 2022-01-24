@@ -4,7 +4,13 @@
             "lastname": "Barit",
             "favoriteColor": "green"
         },
+        {
+            "firstname": "Costa",
+            "lastname": "Reype",
+            "favoriteColor": "DarkBlue"
 
+        },
+       
         {
             "firstname": "Benjamin",
             "lastname": "Gelineau",
@@ -86,6 +92,12 @@
             "firstname": "Sandra",
             "lastname": "Heraud",
             "favoriteColor": "Yellow"
+        },
+        {
+            "firstname": "Léo",
+            "lastname": "Bourin",
+            "favoriteColor": "red"
+
         }
         
 
