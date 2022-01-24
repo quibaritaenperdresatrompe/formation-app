@@ -73,6 +73,26 @@
 			"firstname": "Maxime",
 			"lastname": "Mourgues",
 			"favoriteColor": "#58B049"
+		},
+		{
+			"firstname": "Joseph",
+			"lastname": "Cloux",
+			"favoriteColor": "blue"
+		},
+		{
+			"firstname": "Clément",
+			"lastname": "Manant",
+			"favoriteColor": "blue"
+		},
+		{
+			"firstname": "Léo",
+			"lastname": "Bourin",
+			"favoriteColor": "red"
+		},
+		{
+			"firstname": "Costa",
+			"lastname": "Reype",
+			"favoriteColor": "DarkBlue"
 		}
 	]
 }
