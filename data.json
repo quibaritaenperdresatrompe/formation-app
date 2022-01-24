@@ -5,6 +5,7 @@
       "lastname": "Barit",
       "favoriteColor": "green"
     },
+
     {
       "firstname": "Dorian",
       "lastname": "Levée",
@@ -35,10 +36,17 @@
       "lastname": "michel",
       "favoriteColor": "flou"
     },
+
     {
       "firstname": "Arnaud",
       "lastname": "Boyer",
       "favoriteColor": "blue"
+    },
+
+    {
+      "firstname": "Louis",
+      "lastname": "Merlaud",
+      "favoriteColor": "light gray"
     }
   ]
 }
