@@ -1,6 +1,11 @@
 {
   "participants": [
     {
+      "firstname": "Valentin",
+      "lastname": "Barit",
+      "favoriteColor": "green"
+    },
+    {
       "firstname": "Thomas",
       "lastname": "Curmi",
       "favoriteColor": "purple"
