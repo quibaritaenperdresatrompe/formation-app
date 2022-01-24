@@ -93,6 +93,11 @@
 			"firstname": "Costa",
 			"lastname": "Reype",
 			"favoriteColor": "DarkBlue"
+		},
+		{
+			"firstname": "Théo",
+			"lastname": "Quesnoy",
+			"favoriteColor": "White"
 		}
 	]
 }
