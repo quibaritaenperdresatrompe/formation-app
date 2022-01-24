@@ -53,6 +53,10 @@
       "firstname": "Louis",
       "lastname": "Merlaud",
       "favoriteColor": "light gray"
+    },
+    {
+      "firstname": "Matthias",
+      "lastname": "Flament"
     }
   ]
 }
