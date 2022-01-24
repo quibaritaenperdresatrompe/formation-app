@@ -14,6 +14,11 @@
       "firstname": "Valentin",
       "lastname": "Diologent",
       "favoriteColor": "red"
+    },
+    {
+      "firstname": "romain",
+      "lastname": "michel",
+      "favoriteColor": "flou"
     }
   ]
 }
