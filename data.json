@@ -142,7 +142,6 @@
         },
 
         {
-<<<<<<< HEAD
             "firstname": "Arnaud",
             "lastname": "Boyer",
             "favoriteColor": "blue"
@@ -154,8 +153,6 @@
         },
 
         {
-=======
->>>>>>> e8c8ef6 (add)
             "firstname": "Louis",
             "lastname": "Merlaud",
             "favoriteColor": "light gray"
@@ -175,7 +172,6 @@
             "favoriteColor": "red :)"
         },
         {
-<<<<<<< HEAD
             "firstname": "Joseph",
             "lastname": "Cloux",
             "favoriteColor": "blue"
@@ -189,9 +185,8 @@
             "firstname": "Paul Antoine",
             "lastname": "Abeille",
             "favoriteColor": "Green"
-        }
-    ]
-}
+        },
+        {
             "firstname": "Gaetan",
             "lastname": "Roux",
             "favoriteColor": "blue"
@@ -200,43 +195,38 @@
             "firstname": "Guillaume",
             "lastname": "Mareschal",
             "favoriteColor": "purple"
-        }
-        
+        },
 
-    ]
-}
-    {
-      "firstname": "Louis",
-      "lastname": "Merlaud",
-      "favoriteColor": "light gray"
-    },
-    {
-      "firstname": "Matthias",
-      "lastname": "Flament"
-    },
-    {
-      "firstname": "Manoa",
-      "lastname": "Marchand",
-      "favoriteColor": "#d4f2d2"
-    },
-    {
-      "firstname": "Antonin",
-      "lastname": "Jouannet",
-      "favoriteColor": "red :)"
-    },
-    {
-      "firstname": "Killian",
-      "lastname": "Adonaï",
-      "favoriteColor": "purple "
-    },
-    {
-      "firstname": "Mattéo",
-      "lastname": "Ferreira",
-      "favoriteColor": "#fab478"
-    }
-  ]
-}
-=======
+        {
+        "firstname": "Louis",
+        "lastname": "Merlaud",
+        "favoriteColor": "light gray"
+        },
+        {
+        "firstname": "Matthias",
+        "lastname": "Flament"
+        },
+        {
+        "firstname": "Manoa",
+        "lastname": "Marchand",
+        "favoriteColor": "#d4f2d2"
+        },
+        {
+        "firstname": "Antonin",
+        "lastname": "Jouannet",
+        "favoriteColor": "red :)"
+        },
+        {
+        "firstname": "Killian",
+        "lastname": "Adonaï",
+        "favoriteColor": "purple "
+        },
+        {
+        "firstname": "Mattéo",
+        "lastname": "Ferreira",
+        "favoriteColor": "#fab478"
+        },
+        {   
             "firstname": "Killian",
             "lastname": "Adonaï",
             "favoriteColor": "purple "
@@ -250,7 +240,11 @@
             "firstname": "Valentin",
             "lastname": "DAUTREMENT",
             "favoriteColor": "yellow"
+        },
+        {
+            "firstname": "Kévin",
+            "lastname": "Granger",
+            "favoriteColor": "red"
         }
     ]
 }
->>>>>>> e8c8ef6 (add)
