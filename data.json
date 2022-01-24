@@ -9,6 +9,16 @@
       "firstname": "Thomas",
       "lastname": "Curmi",
       "favoriteColor": "purple"
+    },
+    {
+      "firstname": "Fabian",
+      "lastname": "Ingremeau",
+      "favoriteColor": "green"
+    },
+    {
+      "firstname": "Valentin",
+      "lastname": "Diologent",
+      "favoriteColor": "red"
     }
   ]
 }
