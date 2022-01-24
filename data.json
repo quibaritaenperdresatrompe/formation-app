@@ -251,6 +251,11 @@
           "firstname": "Enzo",
           "lastname": "Peyrataud",
           "favoriteColor": "green"
+        },
+        {
+            "firstname": "Lucas",
+            "lastname": "Fallous",
+            "favoriteColor": "#6BD080"
         }
       ]
     }
