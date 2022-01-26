@@ -253,9 +253,20 @@
           "favoriteColor": "green"
         },
         {
+<<<<<<< HEAD
             "firstname": "Lucas",
             "lastname": "Fallous",
             "favoriteColor": "#6BD080"
+=======
+            "firstname": "Antonin",
+            "lastname": "Jouannet",
+            "favoriteColor": "red :)"
+        },
+        {
+            "firstname": "Lucas",
+            "lastname": "Fallous",
+            "favoriteColor": "yellow"
+>>>>>>> a96ad9b058a5878c8b520a0fcd3802f9d370868b
         }
       ]
     }
