@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "formation-app",
+    "name": "Formation App",
     "slug": "formation-app",
+    "description": "Un espace de travail collaboratif pour vos modules de formation.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +14,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
