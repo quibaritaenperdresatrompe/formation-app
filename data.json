@@ -265,6 +265,12 @@
 		"firstname": "Mathis",
 		"lastname": "Coco",
 		"favoriteColor": "blue"
-	  }
-	]
+	  },
+	  {
+            "firstname": "Maxime",
+            "lastname": "Chasson",
+            "favoriteColor": "#318CE7"
+
+        }	   
+]
   
