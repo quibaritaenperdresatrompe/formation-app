@@ -8,15 +8,16 @@ export default function App() {
     <View style={styles.container}>
       <Text>Ma première appli en JS !!</Text>
       <Button title="Ajouter" onPress={() => console.log("adding")} />
+      <StatusBar style="auto" />
     </View>
   );
-
-  const styles = StyleSheet.create({
-    container: {
-      flex: 1,
-      backgroundColor: "#fff",
-      alignItems: "center",
-      justifyContent: "center",
-    },
-  });
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: "#fff",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+});
