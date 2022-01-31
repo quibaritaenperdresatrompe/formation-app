@@ -251,6 +251,11 @@
       "firstname": "Enzo",
       "lastname": "Peyrataud",
       "favoriteColor": "green"
+    },
+    {
+      "firstname": "Dorian",
+      "lastname": "Fonseca",
+      "favoriteColor": "blue"
     }
   ]
 }
